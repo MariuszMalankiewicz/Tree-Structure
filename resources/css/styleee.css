@@ -1,0 +1,17 @@
+li{
+    list-style: none;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+.arrow{
+    cursor: pointer;
+    transform: rotate(90deg);
+    transition: .1s linear;
+}
+.fa-caret-right{
+    cursor: pointer;
+}
